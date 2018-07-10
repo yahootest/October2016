@@ -12,3 +12,5 @@ git-25
 
 It is not working as I expected
 Recreated the Github issues board
+It still shows the Open pull request button after merging pull request
+Not sure why
